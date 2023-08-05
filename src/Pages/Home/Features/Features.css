@@ -1,0 +1,32 @@
+.feature-bg{
+    background-image: url(../../../assets/hosting3-home-section-bg.png);
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 400px; */
+    padding: 20px 0;
+
+}
+
+.fbg1{
+    background-image: url(../../../assets/hosting3-home-01.png);
+    background-repeat: no-repeat;
+    /* background-position: left; */
+    background-size: contain;
+    height: 80px;
+}
+
+.fbg2{
+    background-image: url(../../../assets/hosting3-home-02.png);
+    background-repeat: no-repeat;
+    /* background-position: left; */
+    background-size: contain;
+    height: 80px;
+}
+.fbg3{
+    background-image: url(../../../assets/hosting3-home-03.png);
+    background-repeat: no-repeat;
+    /* background-position: left; */
+    background-size: contain;
+    height: 80px;
+}
